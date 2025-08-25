@@ -1,0 +1,27 @@
+.avatar{
+    border-radius: 14px;
+}
+
+.card:hover {opacity: 1}
+
+.card {
+    box-shadow: 10px 10px 8px #888888;
+    opacity: 70%;
+    background-color: blanchedalmond;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    color: #1e1e1e;
+    margin: 20px auto;
+    padding: 50px;
+    border-bottom: 8px solid peachpuff;
+    border-radius: 28px;
+    text-align: center;
+    
+}
+.text-wrapper
+{
+    //border: 1px solid green;
+    
+}
